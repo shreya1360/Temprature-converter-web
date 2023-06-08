@@ -1,0 +1,47 @@
+body{
+    padding: 100px 100px;
+}
+
+h1{
+    text-align:center;
+    
+}
+
+#container{
+    text-align: center;
+    background-color:skyblue;
+    padding: 100px 50px;
+    background-image:url(cloud.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+  
+
+}
+
+
+#cels{
+    margin: 30px;
+}
+
+#fehr {
+    margin:30px;
+}
+#kelv{
+    margin: 30px;
+}
+
+.input-div{
+    display:inline-block;
+}
+
+.inp{
+    padding:5px 10px;
+    margin:10px;
+    font-size: 30px;
+    font-weight:bold;
+    width:250px;
+    text-align: center;
+}
+label{
+    font-size:22px;
+}
